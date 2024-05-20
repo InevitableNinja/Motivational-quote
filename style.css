@@ -1,0 +1,35 @@
+html{
+    background-color: black;
+}
+img{
+    width:50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    border: 5px solid orange;
+}
+h1{
+    font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  font-size: xx-large;
+  
+  text-transform: uppercase;
+  text-align: center;
+  border: 10px solid white;
+  padding: 10px;
+  margin-left: 30%;
+  margin-right: 30%;
+  border-radius: 10px;
+}
+p{
+    font-family: "Teachers", sans-serif;
+    font-weight: 700;
+    font-style: normal;   
+    font-size: x-large;
+    color: white;
+    text-align: center;
+    border:5px solid #7AB2B2;
+    margin-left: 32%;
+  margin-right: 32%;
+}
